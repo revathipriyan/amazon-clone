@@ -35,6 +35,7 @@ To run this project locally, follow these steps:
 ## Screenshots
 
 ![landing1](https://github.com/revathipriyan/amazon-clone/assets/81468374/2e1635aa-6aef-4d81-b8c5-d9cc384a49c0)
+
 ![landing2-full](https://github.com/revathipriyan/amazon-clone/assets/81468374/83fccfc5-a4b3-4db9-bb72-e5b8f3065ac7)
 
 
